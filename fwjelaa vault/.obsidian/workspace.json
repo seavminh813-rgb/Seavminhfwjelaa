@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "f7a0000000000a00",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d781531aea809e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a16de2b48a5960f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7a0000000000b00",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7a0000000000b01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7a0000000000001",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7a0000000000002",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f7a0000000000003",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7a0000000000c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7a0000000000c01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7a0000000000004",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {},
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f7a0000000000005",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6c78e3619fb6bf76",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 2.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a1c08f8aadd07fb5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0631fbfcec4e1feb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f7a0000000000001",
+  "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled 2.base",
+    "_tools/reports/consistency.md",
+    "01 Studio and Workflow/Creator Store and Toolbox Safety.md",
+    "01 Studio and Workflow/Command Bar and Studio Scripting.md",
+    "_tools/README.md",
+    "02 Luau Scripting/Events Signals and Connections.md",
+    "02 Luau Scripting/Error Handling - pcall xpcall and Promise Patterns.md",
+    "02 Luau Scripting/CollectionService Patterns.md",
+    "02 Luau Scripting/Buffers and Binary Data.md",
+    "_assets/fwj-logo.png",
+    "_tools/reports/snippets.md",
+    "_tools/reports/api_check.md",
+    "Untitled.canvas",
+    "16 MCP and Agents/Roblox Studio MCP Server.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "80 Reference Library/visual-refs/studs-ui/simulator-games/1-runesword-evolution-1.png",
+    "SYMPTOMS.md",
+    "70 fwjelaa Packs/fwjelaa Packs Start Here.md",
+    "000 Home.md"
+  ]
+}
